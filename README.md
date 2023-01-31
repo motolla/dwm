@@ -20,8 +20,9 @@ dwm is a dynamic window manager for X. It manages windows in tiled, monocle and 
 ```
 xbps-install libXft-devel libX11-devel libXinerama-devel
 ```
-+ Nerd Font JetBrains
-
+```
+Nerd Font JetBrains
+```
 # Build & Install
 + Clone the repo
 
