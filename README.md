@@ -3,7 +3,8 @@ dwm is a dynamic window manager for X. It manages windows in tiled, monocle and 
 
 # Preview
 <img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2303.png"><br>
-<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2302.png"><br><br>
+<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2302.png"><br>
+<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2304.png"><br><br>
 
 # Patch Applied
 + [dwm-actualfullscreen-20211013-cb3f58a.diff](https://dwm.suckless.org/patches/actualfullscreen/dwm-actualfullscreen-20211013-cb3f58a.diff)
