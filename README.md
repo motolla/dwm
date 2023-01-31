@@ -6,6 +6,21 @@ dwm is a dynamic window manager for X. It manages windows in tiled, monocle and 
 <img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2302.png"><br>
 <img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2304.png"><br><br>
 
+# Quick Keybind
+```
+# Open Terminal
+Alt + Enter
+
+# Close & Kill Program
+Alt + q
+
+# Switch Focus Window
+Alt + j/k
+
+# Toggle Layout
+Alt + Space
+```
+
 # Patch Applied
 + [dwm-actualfullscreen-20211013-cb3f58a.diff](https://dwm.suckless.org/patches/actualfullscreen/dwm-actualfullscreen-20211013-cb3f58a.diff)
 + [dwm-alttagsdecoration-2020010304-cb3f58a.diff](https://dwm.suckless.org/patches/alttagsdecoration/dwm-alttagsdecoration-2020010304-cb3f58a.diff)
