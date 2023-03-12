@@ -3,8 +3,8 @@ dwm is a dynamic window manager for X. It manages windows in tiled, monocle and 
 
 # Preview
 <p align="center">
-    <img src="">
-    <img src="">
+    <img src="https://github.com/motolla/dwm/blob/vscode/img/dwm-preview%2301.png">
+    <img src="https://github.com/motolla/dwm/blob/vscode/img/dwm-preview%2302.png">
 </p>
 
 # Quick Keybind
