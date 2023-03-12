@@ -1,14 +1,9 @@
 # DWM
 dwm is a dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
 
-# Preview
-<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2303.png"><br>
-<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2302.png"><br>
-<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/dwm-preview%2304.png"><br><br>
-
 # Quick Keybind
 ```
-# Open Terminal
+# Open Terminal (st)
 Alt + Enter
 
 # Close & Kill Program
