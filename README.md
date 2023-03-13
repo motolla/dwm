@@ -18,6 +18,9 @@ Alt + q
 # Switch Focus Window
 Alt + j/k
 
+# Move Stack
+Alt + Shift + j/k
+
 # Toggle Layout
 Alt + Space
 

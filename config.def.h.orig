@@ -13,12 +13,12 @@ static const char *fonts[]          = { "JetBrainsMono NF:Semibold:size=14", "Sy
 static const char col_gray1[]       = "#1e1e1e";
 static const char col_gray2[]       = "#2d2d2d";
 static const char col_gray3[]       = "#636369";
-static const char col_gray4[]       = "#f7f7f7";
-static const char col_cyan[]        = "#004b72";
+static const char col_fg1[]         = "#f7f7f7";
+static const char col_accent[]      = "#004b72";
 static const char *colors[][3]      = {
-	/*               fg         bg         border   */
-	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
-	[SchemeSel]  = { col_gray4, col_gray1,  col_cyan  },
+	/*               fg          bg           border   */
+	[SchemeNorm] = { col_gray3,  col_gray1,   col_gray2 },
+	[SchemeSel]  = { col_fg1,     col_gray1,   col_accent  },
 };
 
 /* tagging */
@@ -127,7 +127,6 @@ static const Button buttons[] = {
 	/* click                event mask      button          function        argument */
 	{ ClkLtSymbol,          0,              Button1,        setlayout,      {0} },
 	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },
-	{ ClkWinTitle,          0,              Button2,        zoom,           {0} },
 	{ ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },
 	{ ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
 	{ ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },
